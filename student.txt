@@ -1,3 +1,5 @@
-Kirthana Shivappa Moger
-4IK25CS083
-CDD
+Name: Kirthana Shivappa Moger
+USN: 4IK25CS083
+Subject :CDD
+
+Changes done by Kruthika
