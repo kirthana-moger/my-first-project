@@ -1,6 +1,6 @@
 Name: Kirthana Shivappa Moger
 USN: 4IK25CS083
-Subject :CDD
+Subject :CDD(Deveops)
 College: NIE,Mysore
 
 Changes done by Kruthika C
